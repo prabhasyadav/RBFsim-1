@@ -62,8 +62,9 @@ Following authors are credited for this version [![DOI](https://zenodo.org/badge
 6. **Tassilo Reuschling** - First offline code development
 7. **Prof. Dr T. Grischek** - Supervisory support on contents
 8. **Prof. Dr A. Hartmann** - Supervisory support on contents
-9. **Vibhu Batheja** 
-10. **Anton Kohler**
+9. **Vibhu Batheja**  - Interface design and optimization
+10. **Anton Kohler** - Computation and verification
+11. **Pratistha Kansakar** - Interface design, report and optimization
 
 ## References
 
