@@ -60,11 +60,12 @@ Following authors are credited for this version [![DOI](https://zenodo.org/badge
 4. **A. Villa** - offline code and case studies
 5. **M Gomez** - offline code and case studies
 6. **Tassilo Reuschling** - First offline code development
-7. **Prof. Dr T. Grischek** - Supervisory support on contents
+7. **Prof. Dr-Ing. T. Grischek** - Supervisory support on contents
 8. **Prof. Dr A. Hartmann** - Supervisory support on contents
-9. **Vibhu Batheja** 
-10. **Anton Kohler**
-
+9. **Vibhu Batheja**  - GUI improvement
+10. **Anton Kohler** - Computational and visualization
+11. **Prathishta Kansakar** - Report and GUI improvement
+ 
 ## References
 
 - Coming up
